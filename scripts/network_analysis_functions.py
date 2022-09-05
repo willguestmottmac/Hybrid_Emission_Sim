@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 17 09:00:41 2020
-
-@author: czor847
-"""
-
-#!pip freeze > requirements.txt
-#!pip install -r requirements.txt
 
 import networkx as nx
 from tqdm import tqdm

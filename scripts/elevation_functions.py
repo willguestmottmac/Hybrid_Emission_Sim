@@ -1,8 +1,6 @@
 '''
 FIND ELEVATION FOR A GIVEN GEOMETRY
 '''
-#!pip freeze > requirements.txt
-#!pip install -r requirements.txt
 
 import pyproj
 import functools

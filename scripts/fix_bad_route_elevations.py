@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  9 12:31:19 2021
-
-@author: czor847
-
-PATH == G:\My Drive\Will\Python Project\hybrid_freight\scripts
-
-"""
-
 
 import pandas as pd
 import geopandas as gpd

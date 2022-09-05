@@ -2,10 +2,6 @@
 '''
 common geometric functions
 '''
-#!pip freeze > requirements.txt
-#!pip install -r requirements.txt
-
-
 
 from shapely.geometry import *
 import snkit
