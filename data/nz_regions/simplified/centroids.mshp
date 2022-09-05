@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <HISTORY saga-version="2.3.2">
+    <MODULE library="shapes_polygons" id="1" name="Polygon Centroids">
+      <OPTION type="boolean" id="METHOD" name="Centroids for each part">FALSE</OPTION>
+      <INPUT type="shapes" id="POLYGONS" name="Polygons">
+        <FILE>C:/Users/czor847/AppData/Local/Temp/processing_b4cef2061a6d476381f8d8f25ff781e6/5d7970cee87b4624abd40f52d01c596f/POLYGONS.shp</FILE>
+      </INPUT>
+      <OUTPUT type="shapes" id="CENTROIDS" name="Centroids">POLYGONS</OUTPUT>
+    </MODULE>
+  </HISTORY>
+  <SOURCE>
+    <FILE></FILE>
+    <DATABASE>
+      <FIELDS>
+        <FIELD TYPE="LONGINT">fid</FIELD>
+        <FIELD TYPE="STRING">region_nam</FIELD>
+      </FIELDS>
+    </DATABASE>
+    <PROJECTION>
+      <OGC_WKT>PROJCS["NZGD2000_New_Zealand_Transverse_Mercator_2000",GEOGCS["GCS_NZGD_2000",DATUM["D_NZGD_2000",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",173],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",1600000],PARAMETER["false_northing",10000000],UNIT["Meter",1]]</OGC_WKT>
+      <PROJ4>+proj=tmerc +a=6378137.000000 +b=6356752.314140 +lat_0=0 +lon_0=173 +k_0=0.9996 +x_0=1600000 +y_0=10000000 +no_defs</PROJ4>
+      <EPSG>-1</EPSG>
+    </PROJECTION>
+  </SOURCE>
+  <DESCRIPTION></DESCRIPTION>
+</SAGA_METADATA>

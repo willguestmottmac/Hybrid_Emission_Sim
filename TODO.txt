@@ -1,0 +1,47 @@
+
+CONRAD
+- add the NZ freight study to GIS (plus picton for the south island as a destination)
+
+
+*Waikato
+*BOP
+*Gisborne
+*HB
+*Taranaki
+*Manuwatu-Wanganui
+*Wgtn
+
+*TNM
+*West Coast
+*Canterbury
+*Otago
+*Southland
+*PICTON
+
+
+
+- re run the shortest paths
+- route splitting @ 100m intervals
+- elevation checks (i.e.lyttleton tunnel)
+
+
+---> feeds into the 'fuel_use_calculation.py'
+
+Fuel use
+- update functions (fuel use etc.)
+- come up with a range of IRI's for road types 
+- emissions calcs
+
+- example trucks
+(A) 10-15 tonne?
+(B) 20-30 tonne?
+(C) 35+ tonne?
+- how the example trucks would be split between different OD pairings(what % is light/medium (i.e. not hybrod) and then what % are type A/B/C)
+
+
+
+*presenting the plots
+*paper structure
+
+NZ Freight Demand 2017/18 (released sept 2019) from page 74 here (table 5.5)
+https://www.transport.govt.nz/assets/Uploads/Report/NFDS3-Final-Report-Oct2019-Rev1.pdf

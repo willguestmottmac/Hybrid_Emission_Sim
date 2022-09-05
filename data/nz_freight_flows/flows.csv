@@ -1,0 +1,183 @@
+Origin,Destination,million tonnes,label
+Northland,Auckland,1,1
+Northland,Waikato,0.11,0.11
+Northland,Bay of Plenty,0.2,0.2
+Northland,Gisborne,0,<0.01
+Northland,Hawke's Bay,0.02,0.02
+Northland,Taranaki,0,<0.01
+Northland,Manawatu-Wanganui,0,<0.01
+Northland,Wellington,0.02,0.02
+Northland,TNM,0,<0.01
+Northland,West Coast,0,<0.01
+Northland,Canterbury,0.3,0.3
+Northland,Otago,0,<0.01
+Northland,Southland,0,<0.01
+Auckland,Northland,1.2,1.2
+Auckland,Waikato,4.35,4.35
+Auckland,Bay of Plenty,0.62,0.62
+Auckland,Gisborne,0.23,0.23
+Auckland,Hawke's Bay,0.57,0.57
+Auckland,Taranaki,0.65,0.65
+Auckland,Manawatu-Wanganui,1.48,1.48
+Auckland,Wellington,1.26,1.26
+Auckland,TNM,0.31,0.31
+Auckland,West Coast,0.1,0.1
+Auckland,Canterbury,0.43,0.43
+Auckland,Otago,0.42,0.42
+Auckland,Southland,0.24,0.24
+Waikato,Northland,0.1,0.1
+Waikato,Auckland,3.03,3.03
+Waikato,Bay of Plenty,5.7,5.7
+Waikato,Gisborne,0,<0.01
+Waikato,Hawke's Bay,0.1,0.1
+Waikato,Taranaki,0.44,0.44
+Waikato,Manawatu-Wanganui,0.1,0.1
+Waikato,Wellington,0.1,0.1
+Waikato,TNM,0,<0.01
+Waikato,West Coast,0,<0.01
+Waikato,Canterbury,0.12,0.12
+Waikato,Otago,0,<0.01
+Waikato,Southland,0,<0.01
+Bay of Plenty,Northland,0.1,0.1
+Bay of Plenty,Auckland,1.5,1.5
+Bay of Plenty,Waikato,2.6,2.6
+Bay of Plenty,Gisborne,0.1,0.1
+Bay of Plenty,Hawke's Bay,0.12,0.12
+Bay of Plenty,Taranaki,0.1,0.1
+Bay of Plenty,Manawatu-Wanganui,0.21,0.21
+Bay of Plenty,Wellington,0.11,0.11
+Bay of Plenty,TNM,0.01,0.01
+Bay of Plenty,West Coast,0,<0.01
+Bay of Plenty,Canterbury,0.06,0.06
+Bay of Plenty,Otago,0.04,0.04
+Bay of Plenty,Southland,0,<0.01
+Gisborne,Northland,0,<0.01
+Gisborne,Auckland,0.11,0.11
+Gisborne,Waikato,0.1,0.1
+Gisborne,Bay of Plenty,0.14,0.14
+Gisborne,Hawke's Bay,0.22,0.22
+Gisborne,Taranaki,0,<0.01
+Gisborne,Manawatu-Wanganui,0.1,0.1
+Gisborne,Wellington,0,<0.01
+Gisborne,TNM,0,<0.01
+Gisborne,West Coast,0,<0.01
+Gisborne,Canterbury,0.02,0.02
+Gisborne,Otago,0,<0.01
+Gisborne,Southland,0,<0.01
+Hawke's Bay,Northland,0.01,0.01
+Hawke's Bay,Auckland,0.41,0.41
+Hawke's Bay,Waikato,0.1,0.1
+Hawke's Bay,Bay of Plenty,0.4,0.4
+Hawke's Bay,Gisborne,0.21,0.21
+Hawke's Bay,Taranaki,0.07,0.07
+Hawke's Bay,Manawatu-Wanganui,0.55,0.55
+Hawke's Bay,Wellington,0.12,0.12
+Hawke's Bay,TNM,0.01,0.01
+Hawke's Bay,West Coast,0,<0.01
+Hawke's Bay,Canterbury,0.1,0.1
+Hawke's Bay,Otago,0,<0.01
+Hawke's Bay,Southland,0,<0.01
+Taranaki,Northland,0.02,0.02
+Taranaki,Auckland,0.3,0.3
+Taranaki,Waikato,0.25,0.25
+Taranaki,Bay of Plenty,0.2,0.2
+Taranaki,Gisborne,0,<0.01
+Taranaki,Hawke's Bay,0.2,0.2
+Taranaki,Manawatu-Wanganui,0.5,0.5
+Taranaki,Wellington,0.06,0.06
+Taranaki,TNM,0.02,0.02
+Taranaki,West Coast,0.02,0.02
+Taranaki,Canterbury,0.03,0.03
+Taranaki,Otago,0,<0.01
+Taranaki,Southland,0,<0.01
+Manawatu-Wanganui,Northland,0,<0.01
+Manawatu-Wanganui,Auckland,0.5,0.5
+Manawatu-Wanganui,Waikato,0.1,0.1
+Manawatu-Wanganui,Bay of Plenty,0.2,0.2
+Manawatu-Wanganui,Gisborne,0.02,0.02
+Manawatu-Wanganui,Hawke's Bay,1.1,1.1
+Manawatu-Wanganui,Taranaki,1.6,1.6
+Manawatu-Wanganui,Wellington,1.8,1.8
+Manawatu-Wanganui,TNM,0,<0.01
+Manawatu-Wanganui,West Coast,0,<0.01
+Manawatu-Wanganui,Canterbury,0.05,0.05
+Manawatu-Wanganui,Otago,0,<0.01
+Manawatu-Wanganui,Southland,0,<0.01
+Wellington,Northland,0.01,0.01
+Wellington,Auckland,0.95,0.95
+Wellington,Waikato,0.1,0.1
+Wellington,Bay of Plenty,0.03,0.03
+Wellington,Gisborne,0,<0.01
+Wellington,Hawke's Bay,0.12,0.12
+Wellington,Taranaki,0.04,0.04
+Wellington,Manawatu-Wanganui,1,1
+Wellington,TNM,0,<0.01
+Wellington,West Coast,0,<0.01
+Wellington,Canterbury,0.1,0.1
+Wellington,Otago,0,<0.01
+Wellington,Southland,0,<0.01
+TNM,Northland,0,<0.01
+TNM,Auckland,0.14,0.14
+TNM,Waikato,0.01,0.01
+TNM,Bay of Plenty,0.1,0.1
+TNM,Gisborne,0,<0.01
+TNM,Hawke's Bay,0.02,0.02
+TNM,Taranaki,0,<0.01
+TNM,Manawatu-Wanganui,0.02,0.02
+TNM,Wellington,0.1,0.1
+TNM,West Coast,0.1,0.1
+TNM,Canterbury,0.53,0.53
+TNM,Otago,0.01,0.01
+TNM,Southland,0.01,0.01
+West Coast,Northland,0,<0.01
+West Coast,Auckland,0.02,0.02
+West Coast,Waikato,0,<0.01
+West Coast,Bay of Plenty,0,<0.01
+West Coast,Gisborne,0,<0.01
+West Coast,Hawke's Bay,0,<0.01
+West Coast,Taranaki,0,<0.01
+West Coast,Manawatu-Wanganui,0,<0.01
+West Coast,Wellington,0.01,0.01
+West Coast,TNM,0.02,0.02
+West Coast,Canterbury,0.31,0.31
+West Coast,Otago,0.01,0.01
+West Coast,Southland,0,<0.01
+Canterbury,Northland,0.01,0.01
+Canterbury,Auckland,0.67,0.67
+Canterbury,Waikato,0.05,0.05
+Canterbury,Bay of Plenty,0,<0.01
+Canterbury,Gisborne,0,<0.01
+Canterbury,Hawke's Bay,0.07,0.07
+Canterbury,Taranaki,0.01,0.01
+Canterbury,Manawatu-Wanganui,0.1,0.1
+Canterbury,Wellington,0.1,0.1
+Canterbury,TNM,0.92,0.92
+Canterbury,West Coast,0.7,0.7
+Canterbury,Otago,0.9,0.9
+Canterbury,Southland,0.32,0.32
+Otago,Northland,0,<0.01
+Otago,Auckland,0.14,0.14
+Otago,Waikato,0,<0.01
+Otago,Bay of Plenty,0.01,0.01
+Otago,Gisborne,0,<0.01
+Otago,Hawke's Bay,0.01,0.01
+Otago,Taranaki,0,<0.01
+Otago,Manawatu-Wanganui,0,<0.01
+Otago,Wellington,0,<0.01
+Otago,TNM,0.01,0.01
+Otago,West Coast,0.01,0.01
+Otago,Canterbury,0.63,0.63
+Otago,Southland,1.3,1.3
+Southland,Northland,0,<0.01
+Southland,Auckland,0.12,0.12
+Southland,Waikato,0.01,0.01
+Southland,Bay of Plenty,0,<0.01
+Southland,Gisborne,0,<0.01
+Southland,Hawke's Bay,0,<0.01
+Southland,Taranaki,0,<0.01
+Southland,Manawatu-Wanganui,0,<0.01
+Southland,Wellington,0,<0.01
+Southland,TNM,0.01,0.01
+Southland,West Coast,0,<0.01
+Southland,Canterbury,0.3,0.3
+Southland,Otago,1.2,1.2
